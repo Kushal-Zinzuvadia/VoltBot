@@ -64,10 +64,10 @@ deactivate
 - Bootstrap
 
 ## Author
+Kushal Zinzuvadia,
 Pranjal Yadav, 
 Preet Brahmbhatt, 
-Yug Patel, 
-Kushal Zinzuvadia
+Yug Patel
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
